@@ -1,3 +1,4 @@
 # face-detecion
-Simple app to detect faces.
+This is simple app to detect faces. <br>
+Also added few features which can change contrast, blur, brightness using custom slider. <br>
 Live version here: https://face-detection-app-haar.herokuapp.com/
