@@ -1,2 +1,3 @@
 # face-detecion
-simple app to detect faces
+Simple app to detect faces.
+Live version here: https://face-detection-app-haar.herokuapp.com/
